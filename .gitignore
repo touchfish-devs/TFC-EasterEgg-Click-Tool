@@ -4,6 +4,7 @@
 *.o
 *.win
 *.layout
+*.exe
 *.res
 
 .DS_STORE
