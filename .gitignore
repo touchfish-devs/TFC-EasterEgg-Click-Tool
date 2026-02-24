@@ -1,0 +1,9 @@
+*_private.*
+
+*.out
+*.o
+*.win
+*.layout
+*.res
+
+.DS_STORE
