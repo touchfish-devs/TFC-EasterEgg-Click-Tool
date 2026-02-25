@@ -44,8 +44,40 @@ UseUTF8 = 1
 
 
 [Unit1]
-FileName = main.cpp
+FileName = .gitignore
 CompileCpp = 1
+Folder = 其他文件
+Compile = 0
+Link = 0
+Priority = 1000
+OverrideBuildCmd = 0
+BuildCmd = 
+FileEncoding = PROJECT
+RealEncoding = ASCII
+
+
+[VersionInfo]
+Major = 0
+Minor = 11
+Release = 4
+Build = 5
+LanguageID = 2052
+CharsetID = 1252
+CompanyName = 
+FileVersion = 0.11.4.5
+FileDescription = TouchFish Client 的彩蛋通关程序
+InternalName = CECT
+LegalCopyright = (c) Piaoztsdy 2026
+LegalTrademarks = 
+OriginalFilename = TFCEasterClickTool.exe
+ProductName = TFCEasterClickTool
+ProductVersion = 0.11.4.5
+AutoIncBuildNr = 0
+SyncProduct = 1
+
+
+[Unit2]
+FileName = main.cpp
 Folder = 源文件
 Compile = 1
 Link = 1
@@ -54,38 +86,7 @@ OverrideBuildCmd = 0
 BuildCmd = 
 FileEncoding = PROJECT
 RealEncoding = UTF-8
-
-
-[VersionInfo]
-Major = 0
-Minor = 11
-Release = 4
-Build = 4
-LanguageID = 2052
-CharsetID = 1252
-CompanyName = 
-FileVersion = 0.11.4.4
-FileDescription = TouchFish Client 的彩蛋通关程序
-InternalName = CECT
-LegalCopyright = (c) Piaoztsdy 2026
-LegalTrademarks = 
-OriginalFilename = TFCEasterClickTool.exe
-ProductName = TFCEasterClickTool
-ProductVersion = 0.11.4.4
-AutoIncBuildNr = 1
-SyncProduct = 1
-
-
-[Unit2]
-FileName = .gitignore
-Folder = 其他文件
-Compile = 0
-Link = 0
-Priority = 1000
-OverrideBuildCmd = 0
-BuildCmd = 
-FileEncoding = PROJECT
-RealEncoding = 
+CompileCpp = 1
 
 
 [CompilerSettings]

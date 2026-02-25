@@ -6,5 +6,7 @@
 *.layout
 *.exe
 *.res
+*.bookmarks
+*.debug
 
 .DS_STORE
