@@ -57,10 +57,10 @@ RealEncoding = ASCII
 
 
 [VersionInfo]
-Major = 0
-Minor = 11
-Release = 4
-Build = 5
+Major = 1
+Minor = 0
+Release = 0
+Build = 1
 LanguageID = 2052
 CharsetID = 1252
 CompanyName = 
