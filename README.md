@@ -15,3 +15,7 @@
 ## 编译方式
 
 clone 仓库，然后使用 Dev-C++ 或 小熊猫C++ 等基于 Dev-C++ 的开源项目双击目录下的 .dev 文件打开。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=touchfish-devs/TFC-EasterEgg-Click-Tool&type=date&legend=top-left)](https://www.star-history.com/#touchfish-devs/TFC-EasterEgg-Click-Tool&type=date&legend=top-left)
